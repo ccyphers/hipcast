@@ -1,0 +1,13 @@
+{
+  "name": "hipcast_api",
+  "version": "1.0.0",
+  "description": "Hipchat room broadcaster api",
+  "author": "Cliff Cyphers",
+  "private": true,
+  "dependencies": {
+    "async": "^2.1.2",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "tokyo_ape": "git+https://github.com/ccyphers/tokyo_ape.git"
+  }
+}
